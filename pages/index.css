@@ -1,0 +1,18 @@
+/*--PAGE--*/
+@import url(../block/page/page.css);
+/*--HEADER--*/
+@import url(../block/header/__title/header__title.css);
+@import url(../block/header/header.css);
+/*--CARDS--*/
+@import url(../block/cards/cards.css);
+/*--CARD--*/
+@import url(../block/card/__image/card__image.css);
+@import url(../block/card/card.css);
+@import url(../block/card/__title/card__title.css);
+@import url(../block/card/__link/card__link.css);
+@import url(../block/card/__button/card__button.css);
+/*--FOOTER--*/
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__title/footer__title.css);
+@import url(../block/footer/__contacts/footer__contacts.css);
+@import url(../block/footer/__link/footer__link.css);
